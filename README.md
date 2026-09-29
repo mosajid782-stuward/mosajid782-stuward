@@ -9,11 +9,12 @@ full-stack developer 💯
 <br>
 college -- ABESEC GHAZIABAD 
 <br>
+
 ## 🌐 Socials:
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://instagram.com/mohd_sajid_04_) ![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)(https://medium.com/@@mosajid_18) ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)(https://pinterest.com/mosajid_04) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)(https://youtube.com/@@Tech-hub_18) ![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)(https://codepen.io/@Mo-sajid) ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)(https://mastodon.social/@Mo sajid) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:mosajid782@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@mohd_sajid_04_) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mosajid_18) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mosajid_04) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tech-hub_18) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Mo-sajid) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mo sajid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosajid782@gmail.com) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mosajid782-stuward&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=mosajid782-stuward&theme=ambient_gradient&hide_border=false)<br/>
